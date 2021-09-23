@@ -1,4 +1,15 @@
-# CalorMe
+# CalorMe AI
+
+#### The exact same CalorMe project but with the AI models and jupyter notebook files.
+#### The same project without the AI portion is here: https://github.com/kchatr/calorme
+
+<br>
+
+## About CalorMe
+
+##### Check us out on devpost: https://devpost.com/software/calorme
+
+
 <h2>🍳 Inspiration</h2>
 
 <p>It seems like the world could not be more eager to inform us that the nutritional apocalypse is upon us: one in every five children is obese, one in every three adults is obese, and heart disease and stroke are among the leading causes of death worldwide. On a whole, obesity rates have more than tripled since 1975 and are still on the rise.</p>
